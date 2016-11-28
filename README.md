@@ -55,7 +55,7 @@ On succesful request, the identify function would return an associative array wi
 Array ( [success] => 1 [message] => Subscriber succesfully created/updated [subscriber] => Array ( [id] => 31 [uris] => Array ( [show] => http://client1.whitemail5.dev/subscriber/31 ) ) ) 
 ```
 
-#### Track
+### Track
 
 Use the `track()` function to track subscriber events:
 

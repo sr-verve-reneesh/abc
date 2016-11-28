@@ -1,5 +1,7 @@
 # WHITEMAIL API (PHP 5 Package)
 
+[![Version]](https://packagist.org/packages/reneeshkuttan/whitemail-api)
+
 WhitemailApi is a PHP wrapper to whitemail api.
 
 ## Contents

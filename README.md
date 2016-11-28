@@ -33,7 +33,7 @@ Let's start by creating a new instance of `WhitemailApi`:
 $api = new WhitemailApi($apiEndPoint, $apiKey);
 ```
 
-#### Identify
+### Identify
 
 Now we can send a call through the API to identify a subscriber
 
